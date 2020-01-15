@@ -34,6 +34,9 @@ The zipped file contains three files:
 - README.md
 - high_scores.txt
 
+## Demo:
+
+[![Run on Repl.it](https://repl.it/badge/github/jleg13/COSC110_Python_assignment)](https://repl.it/github/jleg13/COSC110_Python_assignment)
 
 ## Usage:
 
