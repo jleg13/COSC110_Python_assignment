@@ -1,10 +1,5 @@
 ###  Programming Task 2
 
-Name: Joshua Le Gresley
-
-Student ID: 220197638
-
-
 # RWX Game
 ## Description:
 This program is a game where the player tries to guess a 3 digit randomly
