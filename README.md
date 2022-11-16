@@ -381,7 +381,7 @@ Would you like to play again (Y/N)? n
 ```
 
 ## Support:
-Please email jlegresl@une.edu.au if further details are required.
+Please email joshualegresley@gmail.com if further details are required.
 
 ## Contributing:
 For major changes, please open an issue first to discuss what you would like to change.
